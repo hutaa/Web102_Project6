@@ -1,4 +1,4 @@
-# Web Development Project 6 - *Evently – Your Personalized Event Dashboard*
+# Web Development Project 6 - *Evently*
 
 Submitted by: **Atuh Fon**
 
